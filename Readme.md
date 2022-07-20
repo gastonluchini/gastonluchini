@@ -18,3 +18,8 @@ Me encanta resolver problemas y aprender de nuevas tecnologías. Trabajé más d
 Diseño y desarrollo en un equipo de 7 personas un Ecommerce para la venta de libros:
 
 [Grow-Up Libros](https://e-commerce-books.vercel.app/home/ "Ecommerce")
+
+Contactame:
+
+1. gastonluchini@gmail.com
+2. https://www.linkedin.com/in/gast%C3%B3n-luchini/
