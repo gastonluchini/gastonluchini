@@ -1,5 +1,5 @@
 
-# Hola soy Gastón Luchini
+# ✋Hola soy Gastón Luchini
 ## Full Stack Developer en Henry
 ### Especialista en Frontend y React Js
 
@@ -21,5 +21,5 @@ Diseño y desarrollo en un equipo de 7 personas un Ecommerce para la venta de li
 
 Contactame:
 
-1. gastonluchini@gmail.com
-2. https://www.linkedin.com/in/gast%C3%B3n-luchini/
+1. ✉️ gastonluchini@gmail.com
+2. 🐱 https://www.linkedin.com/in/gastón-luchini/ 
