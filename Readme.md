@@ -4,13 +4,14 @@
 ### Especialista en Frontend y React Js
 
 
-Me encanta resolver problemas y aprender de nuevas tecnologías. Trabajé más de 10 años en el área de Recursos Humanos, gerenciando equipos de más de 100 personas.
+Me apasiona la lectura y el desarrollo personal. Trabajé más de 10 años en el área de Recursos Humanos, dirigiendo equipos de más de 100 personas. Con la creación de un proyecto de recursos humanos, descubrí el apasionante mundo de la programación. Realicé un bootcamp en Henry de Full Stack Developer y fui seleccionado como Teaching Assistant para liderar a los estudiantes en su proceso de aprendizaje. Me especializo en Frontend y React. 
 
 ### TECNOLOGIAS
-* HTML5 y CSS
+* HTML5 y CSS3
+* Bootstrap y Material UI
 * JavaScript
 * React y Redux
-* Git
+* Git y Github Flow
 * Node Js y Express
 * SQL, Postgres y Sequelize
 
